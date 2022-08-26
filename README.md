@@ -27,7 +27,7 @@ Pentru continuare se apasă butonul ”Joacă”, ce duce în pagina de autentif
 
 ![2-Logare_1](https://user-images.githubusercontent.com/79523935/186965906-5a9711c2-a38c-4a1d-8c0d-b27575de5140.png)
 
-### În cazul în care numele de utilizator sau parola sunt greșite, se va afișa un mesaj de eroare. 
+#### În cazul în care numele de utilizator sau parola sunt greșite, se va afișa un mesaj de eroare. 
 ![2-Logare_2](https://user-images.githubusercontent.com/79523935/186965917-39e4d234-6ea2-4d1f-b4de-fb87cc5fcd78.png)
 
 Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domeniului din care să fie întrebările.
