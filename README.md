@@ -24,3 +24,24 @@ Utilizatorii care accesează jocul QuizNight sunt întâmpinați de pagina de bu
 
 ![image](https://user-images.githubusercontent.com/79523935/186964800-41c82db0-06aa-440a-b3f4-3180bddeb567.png)
 
+După autentificare, utilizatorilor le sunt prezentate categoriile de întrebări din care pot alege. În funcție de domeniul ales, va porni un set de întrebări.
+
+![image](https://user-images.githubusercontent.com/79523935/186964979-a1db2f10-ed52-4015-ae7b-e4770e0c546a.png)
+
+# Exemple de întrebări
+
+![image](https://user-images.githubusercontent.com/79523935/186965211-533a7a57-4b25-4ae2-ab62-fffdf797cb4e.png)
+![image](https://user-images.githubusercontent.com/79523935/186965217-99b2d3e5-9ab8-4e43-8ef3-2fd3558a07dd.png)
+
+# Verificare scor
+
+După terminarea setului de întrebări, veți avea posibilitatea de a vedea scorul obținut, dar și de a verifica răspunsurile.
+
+![image](https://user-images.githubusercontent.com/79523935/186965430-8927d686-941a-4fa1-a0cd-33ec520cc15d.png)
+
+# Verificare raspunsuri
+
+![image](https://user-images.githubusercontent.com/79523935/186965520-02a7122d-f613-4e7f-8fd9-53a66fec41a4.png)
+
+
+
