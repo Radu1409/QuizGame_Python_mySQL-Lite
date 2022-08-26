@@ -30,7 +30,7 @@ Jocul QuizNight își propune să ofere:
 #### În cazul în care numele de utilizator sau parola sunt greșite, se va afișa un mesaj de eroare. 
 ![2-Logare_2](https://user-images.githubusercontent.com/79523935/186965917-39e4d234-6ea2-4d1f-b4de-fb87cc5fcd78.png)
 
-Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domeniului din care să fie întrebările.
+#### Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domeniului din care să fie întrebările.
 
 # Alegerea domeniului de întrebări
 #### După autentificare, utilizatorilor le sunt prezentate categoriile de întrebări din care pot alege. 
@@ -46,7 +46,7 @@ Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domen
 
 
 # Exemple de întrebări
-In imaginile de mai jos se pot evidentia cateva exemple de intrebari din diferite domenii:
+#### In imaginile de mai jos se pot evidentia cateva exemple de intrebari din diferite domenii:
 ![5-4_Univers_2](https://user-images.githubusercontent.com/79523935/186966335-35615154-4ffc-4cb4-aa98-f03d3b3b7885.png)
 ![5-3_It_4](https://user-images.githubusercontent.com/79523935/186966401-15be779f-c889-4d5d-9557-90c5320d66a2.png)
 ![5-2_Fitness_3](https://user-images.githubusercontent.com/79523935/186966427-b07e8a20-ea09-4417-a5c2-27407196f89e.png)
