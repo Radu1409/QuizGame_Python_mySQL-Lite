@@ -22,11 +22,13 @@ Utilizatorii care accesează jocul QuizNight sunt întâmpinați de pagina de bu
 
 În pagina de autentificare, utilizatorii trebuie să introducă numele de utilizator și parola, pentru a putea trece mai departe și a începe jocul. În cazul în care numele de utilizator sau parola sunt greșite, se va afișa un mesaj de eroare. Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domeniului din care să fie întrebările.
 
-![image](https://user-images.githubusercontent.com/79523935/186964800-41c82db0-06aa-440a-b3f4-3180bddeb567.png)
+![2-Logare_1](https://user-images.githubusercontent.com/79523935/186965906-5a9711c2-a38c-4a1d-8c0d-b27575de5140.png)
+![2-Logare_2](https://user-images.githubusercontent.com/79523935/186965917-39e4d234-6ea2-4d1f-b4de-fb87cc5fcd78.png)
+
 
 După autentificare, utilizatorilor le sunt prezentate categoriile de întrebări din care pot alege. În funcție de domeniul ales, va porni un set de întrebări.
 
-![image](https://user-images.githubusercontent.com/79523935/186964979-a1db2f10-ed52-4015-ae7b-e4770e0c546a.png)
+![4-Alegere_1](https://user-images.githubusercontent.com/79523935/186966054-34fb7262-ada5-4479-b2b7-35b5d6244f33.png)
 
 # Exemple de întrebări
 
@@ -41,7 +43,7 @@ După terminarea setului de întrebări, veți avea posibilitatea de a vedea sco
 
 # Verificare raspunsuri
 
-![image](https://user-images.githubusercontent.com/79523935/186965520-02a7122d-f613-4e7f-8fd9-53a66fec41a4.png)
 
 
-
+![7_1-Raspunsuri_1](https://user-images.githubusercontent.com/79523935/186965963-2222d4a7-3232-4fce-96b8-e56962e82296.png)
+![7_1-Raspunsuri_2](https://user-images.githubusercontent.com/79523935/186965969-60ebccd4-c713-4e57-a442-7b9379d9a421.png)
