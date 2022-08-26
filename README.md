@@ -16,20 +16,28 @@ Jocul QuizNight își propune să ofere:
 
 # Prezentarea jocului
 
-Utilizatorii care accesează jocul QuizNight sunt întâmpinați de pagina de bun venit. Pentru continuare se apasă butonul ”Joacă”, ce duce în pagina de autentificare. În caz că se dorește părăsirea jocului, se apasă butonul ”Ieșire”. 
+Utilizatorii care accesează jocul QuizNight sunt întâmpinați de pagina de bun venit.
 
 ![image](https://user-images.githubusercontent.com/79523935/186964777-7314e7db-262b-4447-a3e6-8cfb67cc1097.png)
 
+Pentru continuare se apasă butonul ”Joacă”, ce duce în pagina de autentificare. În caz că se dorește părăsirea jocului, se apasă butonul ”Ieșire”. 
+
 # Pagina de autentificare
-În pagina de autentificare, utilizatorii trebuie să introducă numele de utilizator și parola, pentru a putea trece mai departe și a începe jocul. În cazul în care numele de utilizator sau parola sunt greșite, se va afișa un mesaj de eroare. Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domeniului din care să fie întrebările.
+În pagina de autentificare, utilizatorii trebuie să introducă numele de utilizator și parola, pentru a putea trece mai departe și a începe jocul. 
 
 ![2-Logare_1](https://user-images.githubusercontent.com/79523935/186965906-5a9711c2-a38c-4a1d-8c0d-b27575de5140.png)
+
+În cazul în care numele de utilizator sau parola sunt greșite, se va afișa un mesaj de eroare. 
 ![2-Logare_2](https://user-images.githubusercontent.com/79523935/186965917-39e4d234-6ea2-4d1f-b4de-fb87cc5fcd78.png)
 
+Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domeniului din care să fie întrebările.
+
 # Alegerea domeniului de întrebări
-După autentificare, utilizatorilor le sunt prezentate categoriile de întrebări din care pot alege. În funcție de domeniul ales, va porni un set de întrebări.
+După autentificare, utilizatorilor le sunt prezentate categoriile de întrebări din care pot alege. 
 
 ![4-Alegere_1](https://user-images.githubusercontent.com/79523935/186966054-34fb7262-ada5-4479-b2b7-35b5d6244f33.png)
+
+În funcție de domeniul ales, va porni un set de întrebări.
 
 # Scurt istoric
 Pentru fiecare secțiune de întrebări, este prezentată o scurtă descriere a domeniului ales.
@@ -38,7 +46,7 @@ Pentru fiecare secțiune de întrebări, este prezentată o scurtă descriere a 
 
 
 # Exemple de întrebări
-
+In imaginile de mai jos se pot evidentia cateva exemple de intrebari din diferite domenii:
 ![5-4_Univers_2](https://user-images.githubusercontent.com/79523935/186966335-35615154-4ffc-4cb4-aa98-f03d3b3b7885.png)
 ![5-3_It_4](https://user-images.githubusercontent.com/79523935/186966401-15be779f-c889-4d5d-9557-90c5320d66a2.png)
 ![5-2_Fitness_3](https://user-images.githubusercontent.com/79523935/186966427-b07e8a20-ea09-4417-a5c2-27407196f89e.png)
