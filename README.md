@@ -30,10 +30,19 @@ După autentificare, utilizatorilor le sunt prezentate categoriile de întrebăr
 
 ![4-Alegere_1](https://user-images.githubusercontent.com/79523935/186966054-34fb7262-ada5-4479-b2b7-35b5d6244f33.png)
 
+# Scurt istoric
+Pentru fiecare secțiune de întrebări, este prezentată o scurtă descriere a domeniului ales.
+
+![5-1_Geografie_1](https://user-images.githubusercontent.com/79523935/186966858-26b2b154-f899-4ecd-bda2-3b2ed71ae0ee.png)
+
+
 # Exemple de întrebări
 
-![image](https://user-images.githubusercontent.com/79523935/186965211-533a7a57-4b25-4ae2-ab62-fffdf797cb4e.png)
-![image](https://user-images.githubusercontent.com/79523935/186965217-99b2d3e5-9ab8-4e43-8ef3-2fd3558a07dd.png)
+![5-4_Univers_2](https://user-images.githubusercontent.com/79523935/186966335-35615154-4ffc-4cb4-aa98-f03d3b3b7885.png)
+![5-3_It_4](https://user-images.githubusercontent.com/79523935/186966401-15be779f-c889-4d5d-9557-90c5320d66a2.png)
+![5-2_Fitness_3](https://user-images.githubusercontent.com/79523935/186966427-b07e8a20-ea09-4417-a5c2-27407196f89e.png)
+![5-2_Fitness_4](https://user-images.githubusercontent.com/79523935/186966564-f3cca5e2-22d6-4f7a-adad-8c9ef4ba2c35.png)
+
 
 # Verificare scor
 
@@ -42,8 +51,6 @@ După terminarea setului de întrebări, veți avea posibilitatea de a vedea sco
 ![image](https://user-images.githubusercontent.com/79523935/186965430-8927d686-941a-4fa1-a0cd-33ec520cc15d.png)
 
 # Verificare raspunsuri
-
-
 
 ![7_1-Raspunsuri_1](https://user-images.githubusercontent.com/79523935/186965963-2222d4a7-3232-4fce-96b8-e56962e82296.png)
 ![7_1-Raspunsuri_2](https://user-images.githubusercontent.com/79523935/186965969-60ebccd4-c713-4e57-a442-7b9379d9a421.png)
