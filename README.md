@@ -18,9 +18,9 @@ Jocul QuizNight își propune să ofere:
 
 Utilizatorii care accesează jocul QuizNight sunt întâmpinați de pagina de bun venit. Pentru continuare se apasă butonul ”Joacă”, ce duce în pagina de autentificare. În caz că se dorește părăsirea jocului, se apasă butonul ”Ieșire”. 
 
-![image](https://user-images.githubusercontent.com/79523935/186964657-6b9a99cc-04eb-4b62-8cfb-f3d92695f60e.png)
+![image](https://user-images.githubusercontent.com/79523935/186964777-7314e7db-262b-4447-a3e6-8cfb67cc1097.png)
 
 În pagina de autentificare, utilizatorii trebuie să introducă numele de utilizator și parola, pentru a putea trece mai departe și a începe jocul. În cazul în care numele de utilizator sau parola sunt greșite, se va afișa un mesaj de eroare. Dacă sunt introduse corect, vor fi transferați în pagina de selectare a domeniului din care să fie întrebările.
 
-![image](https://user-images.githubusercontent.com/79523935/186964696-0d945069-51c6-4a28-b611-bd836a6d75cd.png)
+![image](https://user-images.githubusercontent.com/79523935/186964800-41c82db0-06aa-440a-b3f4-3180bddeb567.png)
 
