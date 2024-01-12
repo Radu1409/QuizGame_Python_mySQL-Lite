@@ -1,5 +1,9 @@
 # QuizGame_Python_with_mySQL
 
+# IMPORTANT
+
+For the Python mini-project repository, I would like to highlight that this project was developed some time ago and do not accurately reflect my current skill set. Since then, I have made significant progress in my abilities, and I am in the process of updating this project to showcase my latest knowledge and skills. I am committed to providing a more accurate representation of my current capabilities through these repo.
+
 # Introducere
 
 QuizNight este un joc de cultură generală, dezvoltat în limbajul Python, conceput pentru a oferi
